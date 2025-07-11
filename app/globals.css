@@ -1,0 +1,57 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --font-tajawal: "Tajawal", Arial, sans-serif;
+  }
+
+  * {
+    font-family: var(--font-tajawal);
+  }
+
+  html {
+    font-family: var(--font-tajawal);
+  }
+
+  body {
+    font-family: var(--font-tajawal);
+  }
+}
+
+@layer utilities {
+  .font-tajawal {
+    font-family: var(--font-tajawal);
+  }
+
+  .font-tajawal-light {
+    font-family: var(--font-tajawal);
+    font-weight: 300;
+  }
+
+  .font-tajawal-regular {
+    font-family: var(--font-tajawal);
+    font-weight: 400;
+  }
+
+  .font-tajawal-medium {
+    font-family: var(--font-tajawal);
+    font-weight: 500;
+  }
+
+  .font-tajawal-semibold {
+    font-family: var(--font-tajawal);
+    font-weight: 600;
+  }
+
+  .font-tajawal-bold {
+    font-family: var(--font-tajawal);
+    font-weight: 700;
+  }
+
+  .font-tajawal-black {
+    font-family: var(--font-tajawal);
+    font-weight: 900;
+  }
+}
