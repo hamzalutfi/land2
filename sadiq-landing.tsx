@@ -475,7 +475,9 @@ export default function SadiqLanding() {
                       البداية المجانية
                     </h3>
                     <div className="flex items-center justify-center gap-2 mb-4">
-                      <span className="text-5xl font-black text-black">SYP 0</span>
+                      <span className="text-5xl font-black text-black">
+                        SYP 0
+                      </span>
                       <div className="text-right">
                         <div className="text-sm text-black/60 font-medium">
                           مدى الحياة
@@ -546,7 +548,7 @@ export default function SadiqLanding() {
                     </h3>
                     <div className="flex items-center justify-center gap-3 mb-4">
                       <span className="text-6xl font-black text-white">
-                     SYP 4.99
+                        SYP 4.99
                       </span>
                       <div className="text-right">
                         <div className="text-sm text-white/80 font-medium">
@@ -823,7 +825,7 @@ export default function SadiqLanding() {
                 {[
                   {
                     text: "منصة التعليم",
-                    href: "https://e-learning-nine-tan.vercel.app/",
+                    href: "https://e-learning-tan-omega.vercel.app/",
                   },
                   { text: "تطبيق الخدمات", href: "https://sadiq.app/" },
                   {
