@@ -819,6 +819,7 @@ export default function SadiqLanding() {
             </div>
 
             {/* Quick Links */}
+            {/* hrllo */}
             <div>
               <h4 className="text-xl font-bold mb-6">روابط سريعة</h4>
               <ul className="space-y-4">
