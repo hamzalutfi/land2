@@ -149,7 +149,7 @@ export default function SadiqLanding() {
                 className="bg-gradient-to-r from-[#0B8A3D] to-[#0B8A3D]/80 hover:from-[#0B8A3D]/90 hover:to-[#0B8A3D] text-white px-12 py-6 text-xl font-bold rounded-2xl shadow-2xl hover:shadow-[#0B8A3D]/25 transition-all duration-500 transform hover:scale-110 group relative overflow-hidden"
                 onClick={() =>
                   window.open(
-                    "https://elearning-xi-eight.vercel.app/",
+                    "https://e-learning-tan-omega.vercel.app/",
                     "_blank"
                   )
                 }
